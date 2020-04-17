@@ -17,12 +17,12 @@ public class Main {
         gasStation("95 Gasoline", yamaha_yzf_r125, fiat_panda);
         gasStation("Aviation fuel", airbus_a380, boeing_787, cessna);
 
-        System.out.println();
+
 
         VehicleCollection vehicleCollection = new VehicleCollection();
         vehicleCollection.createVehicleCollection(bmw_m5, fiat_panda, airbus_a380, cessna, yamaha_yzf_r125,azimut_yacht);
 
-        System.out.println("Your vehicle collection: ");
+        System.out.println("\nYour vehicle collection: ");
         vehicleCollection.printVehicleCollection();
     }
 
