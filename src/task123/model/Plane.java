@@ -1,8 +1,7 @@
-package model;
+package task123.model;
 
-public class Motorbike extends Vehicle {
-
-    public Motorbike(String name, int fuel) {
+public class Plane extends Vehicle {
+    public Plane(String name, int fuel) {
         super(name, fuel);
     }
 

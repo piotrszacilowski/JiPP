@@ -1,6 +1,6 @@
-package app;
+package task123.app;
 
-import model.Vehicle;
+import task123.model.Vehicle;
 
 public class VehicleCollection {
     private static final int MAX_VEHICLES = 10;

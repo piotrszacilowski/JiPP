@@ -1,4 +1,4 @@
-package model;
+package task123.model;
 
 public class Boat extends Vehicle {
     public Boat(String name, int fuel) {

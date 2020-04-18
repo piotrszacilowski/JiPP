@@ -1,6 +1,6 @@
-package app;
+package task123.app;
 
-import model.*;
+import task123.model.*;
 
 public class Main {
     public static void main(String[] args) {

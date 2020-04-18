@@ -1,4 +1,4 @@
-package model;
+package task123.model;
 
 public abstract class Vehicle {
     public String name;

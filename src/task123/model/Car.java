@@ -1,4 +1,4 @@
-package model;
+package task123.model;
 
 public class Car extends Vehicle {
     public Car(String name, int fuel) {
