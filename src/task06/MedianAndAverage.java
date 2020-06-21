@@ -6,7 +6,7 @@ import java.util.List;
 
 public class MedianAndAverage {
     public static void main(String[] args) {
-        List<Double> doubles = Arrays.asList(10.00,20.00,30.00,5.00,12.00);
+        List<Double> doubles = Arrays.asList(10.00, 20.00, 30.00, 5.00, 12.00);
 
 //        for (int i = 1; i <= 50; i++) {
 //            doubles.add((double) i);

@@ -4,7 +4,7 @@ import task123.model.Vehicle;
 
 public class VehicleCollection {
     private static final int MAX_VEHICLES = 10;
-    private  int vehiclesNumber = 0;
+    private int vehiclesNumber = 0;
     private Vehicle[] vehiclesCollection = new Vehicle[MAX_VEHICLES];
 
     public void createVehicleCollection (Vehicle... vehicles){
